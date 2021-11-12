@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1.html" />
     <Content Include="eye-slash-solid.svg" />
     <Content Include="eye-solid.svg" />
     <Content Include="Global.asax" />
